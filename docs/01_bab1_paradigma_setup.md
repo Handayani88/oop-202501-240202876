@@ -135,7 +135,7 @@ public class HelloOOP {
       System.out.println("NIM: " + nim + ", Nama: " + namaMhs);
       System.out.println("Daftar Produk:");
       for (Produk p : daftar) {
-         System.out.println("- " + p.nama + ": " + p.harga);
+         System.out.printl n("- " + p.nama + ": " + p.harga);
          total += p.harga;
       }
       System.out.println("Total harga semua produk: " + total);
