@@ -10,4 +10,5 @@ public class Benih extends Produk {
 
     public String getVarietas() { return varietas; }
     public void setVarietas(String varietas) { this.varietas = varietas; }
+    
 }

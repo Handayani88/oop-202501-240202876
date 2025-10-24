@@ -13,6 +13,6 @@ public class MainInheritance {
         System.out.println("Pupuk: " + p.getNama() + " Jenis: " + p.getJenis());
         System.out.println("Alat Pertanian: " + a.getNama() + " Material: " + a.getMaterial());
 
-        CreditBy.print("<NIM>", "<Nama Mahasiswa>");
+        CreditBy.print("<240202876>", "<Nur Dini Handayani>");
     }
 }
